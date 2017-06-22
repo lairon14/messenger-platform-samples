@@ -1,6 +1,6 @@
 {
-    "appSecret": "",
-    "pageAccessToken": "",
-    "validationToken": "",
-    "serverURL": ""
+    "appSecret": "92b007b701172830af187807fb32db91",
+    "pageAccessToken": "EAAFroXYA85sBAHOvO4b3CiK4qIunw35xBtpoyq2XidGgHr9ZAOR9fXxzyK2qKy3t34QcxgfscQn9ihlulyBrbUMfje12B154X8PMItIa5gIpac5kZBZBBFAAjieSblssTQL1FN6VB5qXb2vD1rhQsx1BR42ECX8caUKnsKfUAZDZD",
+    "validationToken": "verify_token",
+    "serverURL": "https://bot-test-lacosta.herokuapp.com/webhook"
 }
